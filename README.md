@@ -1,7 +1,5 @@
-                                            # Hey there 👋 Deepak this side
-                                                  ## web developer
-                                            
-
+<h1 align="center">Hey there 👋 Deepak this side</h1>
+<h3 align="center">I am a web developer</h3>
 <!--
 **deepak31098/deepak31098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
