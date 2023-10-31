@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Deepak</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🎥 I’m currently building: **Wimy app - deferred delivery system**
+- 🎥 I’m currently building: **Wimy - deferred delivery system**
 
 - 🌱 I’m currently learning: **Node, MongoDB, Creative designs**
 
