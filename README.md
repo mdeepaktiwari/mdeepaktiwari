@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Node, MongoDB, Creative designs**
 
-- 💬 Ask me about **React, Next, Javascript, Git**
+- 💬 Ask me about **JavaScript, React, Next**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
