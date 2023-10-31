@@ -3,7 +3,7 @@
 
 - 🎥 I’m currently building: **Wimy - deferred delivery system**
 
-- 🌱 I’m currently learning: **Node, MongoDB, Creative designs**
+- 🌱 I’m currently learning: **Node, MongoDB, system designs**
 
 - 💬 Ask me about **JavaScript, React, Next**
 
