@@ -28,5 +28,5 @@
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==mdeepaktiwari" alt="jeromehardaway" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdeepaktiwari&show_icons=true&locale=en&layout=compact" alt="jeromehardaway" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==mdeepaktiwari" alt="deepaktiwari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdeepaktiwari&show_icons=true&locale=en&layout=compact" alt="deepaktiwari" /></p>
