@@ -26,7 +26,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40"/>
 <img src="https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj" alt="firebase" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+<img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" alt="react-query" width="40" height="40"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==mdeepaktiwari" alt="jeromehardaway" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdeepaktiwari&show_icons=true&locale=en&layout=compact" alt="jeromehardaway" /></p>
