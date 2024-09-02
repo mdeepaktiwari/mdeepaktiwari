@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Deepak</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🎥 I’m currently building: **Wimy - deferred delivery system**
+- 🎥 I’m currently building: **New Features in Kommunicate**
 
-- 🌱 I’m currently learning: **Node, MongoDB, Vue**
+- 🌱 I’m currently learning: **Node, System Design**
 
 - 💬 Ask me about **JavaScript, React, Next**
 
