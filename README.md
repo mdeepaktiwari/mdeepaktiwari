@@ -3,7 +3,7 @@
 
 - 🎥 I’m currently building: **New Features in Shoppin'**
 
-- 🌱 I’m currently learning: **Node, System Design**
+- 🌱 I’m currently learning: **Designing System**
 
 - 💬 Ask me about **JavaScript, React, Next**
 
