@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Deepak</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🎥 I’m currently building: **New Features in Kommunicate**
+- 🎥 I’m currently building: **New Features in Shoppin'**
 
 - 🌱 I’m currently learning: **Node, System Design**
 
