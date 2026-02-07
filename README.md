@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2QP4wG2DnJ7gi_F4OjFWO6PsrZQ1sjOrX4A&s" alt="html" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -28,7 +28,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query" width="40" height="40"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" alt="linux" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Vim" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kwIGpeQcmFMxIdnc_nGVg39WUTGwiUGFuw&s" alt="Vim" width="40" height="40"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==mdeepaktiwari" alt="deepaktiwari" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdeepaktiwari&show_icons=true&locale=en&layout=compact" alt="deepaktiwari" /></p>
