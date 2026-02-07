@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Deepak</h1>
 <h3 align="center">Product Engineer</h3>
 
-- 🎥 I’m currently building: **Mentorship at AccioJob**
+- 🎥 I’m on it right now: **Mentorship at AccioJob**
 
 - 🌱 I’m currently learning: **Designing System**
 
