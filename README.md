@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋 I'm Deepak</h1>
 <h3 align="center">Product Engineer</h3>
 
-- 🎥 I’m currently building: **New Features in Shoppin'**
+- 🎥 I’m currently building: **Mentorship at AccioJob**
 
 - 🌱 I’m currently learning: **Designing System**
 
-- 💬 Ask me about **JavaScript, React, Next**
+- 💬 Ask me about **JavaScript, React, Node**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/> 
+<img src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
