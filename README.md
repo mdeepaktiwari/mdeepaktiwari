@@ -30,5 +30,11 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" alt="linux" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kwIGpeQcmFMxIdnc_nGVg39WUTGwiUGFuw&s" alt="Vim" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==mdeepaktiwari" alt="deepaktiwari" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdeepaktiwari&show_icons=true&locale=en&layout=compact" alt="deepaktiwari" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdeepaktiwari&theme=radical" alt="deepaktiwari" />
+</p>
+<!-- <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdeepaktiwari&layout=compact&theme=dark" alt="deepaktiwari" />
+</p> -->
+
+
