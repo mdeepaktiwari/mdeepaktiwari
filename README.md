@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table align="center">
 <tr>
 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2QP4wG2DnJ7gi_F4OjFWO6PsrZQ1sjOrX4A&s" width="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
@@ -38,11 +38,14 @@
 </table>
 
 <h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdeepaktiwari&theme=radical" alt="deepaktiwari" />
-</p>
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdeepaktiwari&layout=compact&theme=dark" alt="deepaktiwari" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdeepaktiwari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p> -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdeepaktiwari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdeepaktiwari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
