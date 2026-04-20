@@ -37,6 +37,7 @@
 </tr>
 </table>
 
+<h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdeepaktiwari&theme=radical" alt="deepaktiwari" />
 </p>
