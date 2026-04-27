@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Deepak</h1>
-<h3 align="center">Software Engineer | Product Engineer | Instructor</h3>
+<h3 align="center">Software Engineer | Product Engineer | Mentor</h3>
 
 - 🎥 I’m on it right now: **Mentorship at AccioJob**
 
